@@ -1,0 +1,6 @@
+censys==2.1.4
+favicon==0.7.0
+mmh3==3.0.0
+requests==2.26.0
+shodan==1.27.0
+
